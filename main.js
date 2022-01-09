@@ -107,7 +107,7 @@ class Field {
 }
 
 const myField = new Field();
-myField.field = Field.generateField(25,25,.35);
+myField.field = Field.generateField(25,25,.25);
 myField.print();
 
 while(true){
